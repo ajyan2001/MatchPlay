@@ -1,4 +1,4 @@
-name: MatchPlayFrontend CI
+name: MatchPlayFrontend-dev
 
 on:
   push:
